@@ -1,0 +1,11 @@
+h1. About
+
+Eclipse GEF4 - see "Git repo":http://git.eclipse.org/c/gef/org.eclipse.gef4.git, "CI job":https://hudson.eclipse.org/hudson/job/gef4-master/, and "wiki page":http://wiki.eclipse.org/GEF/GEF4 at eclipse.org
+
+h1. Build
+
+"!https://secure.travis-ci.org/fsteeg/gef4.png!":https://travis-ci.org/fsteeg/gef4
+
+h1. License
+
+Eclipse Public License: "http://www.eclipse.org/legal/epl-v10.html":http://www.eclipse.org/legal/epl-v10.html
